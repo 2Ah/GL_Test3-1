@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e80d936-2dfd-4f77-acd5-fd95a7fcb60b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="12" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1P0JZxv69w4nscBVJQe1yFof8WO" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-java/3.141.59" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29046088" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.yandex.rasp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\_My_Doc\_Projects\_Programm\Java\IdeaProjects\GL_Test3-1\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.FindTransport">
+    <configuration name="FindTransport" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="GL_Test3-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.yandex.rasp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.yandex.rasp" />
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.rasp.FindTransport" />
+      <option name="METHOD_NAME" value="findTransportGood" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <fork_mode value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindTransport.findTransportBad" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GL_Test3-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.yandex.rasp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.yandex.rasp" />
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.rasp.FindTransport" />
+      <option name="METHOD_NAME" value="findTransportBad" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindTransport.findTransportGood" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GL_Test3-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.yandex.rasp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.yandex.rasp" />
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.rasp.FindTransport" />
+      <option name="METHOD_NAME" value="findTransportGood" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FindTransport.findTransportGood" />
+        <item itemvalue="JUnit.FindTransport.findTransportBad" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Dmitr\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e80d936-2dfd-4f77-acd5-fd95a7fcb60b" name="Default Changelist" comment="" />
+      <created>1565005139749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565005139749</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
