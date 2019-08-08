@@ -29,4 +29,4 @@
 =================================================
 
 IDE: IntelliJ IDEA 2019
-jdk-12.0.2 + Maven + JUnit
+jdk-12.0.2 + Maven + JUnit + Selenium Java
